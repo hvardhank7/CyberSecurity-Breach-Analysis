@@ -4,12 +4,12 @@ This powerBI dashboard shows the basic understanding of analysis of the Cybersec
 
 ## Some of the main KPIs are:-
 
-Report shows the total number of breaches,open breaches,close breaches.
+1. Report shows the total number of breaches,open breaches,close breaches.
 
-Number of employees are affected by it and the types of Breaches.
+2. Number of employees are affected by it and the types of Breaches.
 
-Estimated stolen data in GBs.
+3. Estimated stolen data in GBs.
 
-Also, shows the top 3 countries effected by these breaches.
+4. Also, shows the top 3 countries effected by these breaches.
 
 Please check the attached pdf dashboard about the breahces. 
