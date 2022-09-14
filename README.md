@@ -1,4 +1,4 @@
-# CyberSecurity-Breach-Analysis
+# CyberSecurity Breach-Analysis
 
 This powerBI dashboard shows the basic understanding of analysis of the Cybersecurity breaches occurred in the organization among the different countries.
 
