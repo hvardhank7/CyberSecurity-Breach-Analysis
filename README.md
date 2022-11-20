@@ -23,6 +23,8 @@ This powerBI dashboard shows the KPIs of Cybersecurity breaches occurred in the 
 
 * Most Breach occur at Department-15 and in Branch 2 of the organization.
 
+[Dashboard Link](https://www.novypro.com/project/csb)
+
 
 
 ![Logo](https://github.com/hvardhank7/CyberSecurity-Breach-Analysis/blob/main/csb_dashboard.png)
